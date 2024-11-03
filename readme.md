@@ -10,7 +10,7 @@ A currency converter application built in Java, capable of converting between mu
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/currency-converter.git`
+1. Clone the repository: `git clone https://github.com/WebDevloper1971/Java-Currency-Converter.git`
 2. Navigate to the project directory: `cd currency-converter`
 3. Compile the project: `javac CurrencyConverter.java`
 4. Run the application: `java CurrencyConverter`
